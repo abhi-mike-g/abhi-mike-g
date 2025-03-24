@@ -1,3 +1,9 @@
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
+
+<br><br>
+
 # 💫 About Me:
 ### 👋 Hey, I'm Abhi M G <br><br><br>Although I prefer to be called AMG (I'm a car *vroom vroom*🏎)<br><br>I'm an undergraduate engineering student with a strong interdisciplinary foundation in AI/ML, sensor technologies, and data automation.<br><br>🔭 Currently Working on [AudioForge](https://github.com/TechnosysOrg/AudioForge)<br>⚡For fun: Guess my favorite animal (Hint: Meow! 😼)
 
