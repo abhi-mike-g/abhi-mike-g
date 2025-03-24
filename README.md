@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hey, I'm Abhi M G <br><br><br>Although I prefer to be called AMG (I'm a car 🤣 *vroom vroom*🏎)<br><br>I'm an undergraduate engineering student with a strong interdisciplinary foundation in AI/ML, sensor technologies, and data automation.<br><br>🔭 Currently Working on [AudioForge](https://github.com/TechnosysOrg/AudioForge)<br>⚡For fun: Guess my favorite animal (Hint: Meow! 😼)
+### 👋 Hey, I'm Abhi M G <br><br><br>Although I prefer to be called AMG (I'm a car 🤣 *vroom vroom*🏎)<br><br>I'm an undergraduate engineering student with a strong interdisciplinary foundation in AI/ML, sensor technologies, and data automation.<br><br>🔭 Currently Working on [AudioForge](https://github.com/TechnosysOrg/AudioForge)<br>⚡For fun: Guess my favorite animal (Hint: Meow! 😼)
 
 
 ## 🌐 Socials:
