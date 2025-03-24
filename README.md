@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/abhi-mike-g/abhi-mike-g/refs/heads/main/Img/Coding%20Cat.gif"width="500">
+  <img src="https://raw.githubusercontent.com/abhi-mike-g/abhi-mike-g/refs/heads/main/Img/giphy.gif"width="500">
 </p>
 
 <br><br>
