@@ -1,3 +1,7 @@
+# 💫 About Me:
+## 👋 Hey, I'm Abhi M G <br>### Although I prefer to be called AMG (I'm a car 🤣 *vroom vroom*🏎)<br>
+🔭 Currently Working on [AudioForge](https://github.com/TechnosysOrg/AudioForge)<br>#### I'm an undergraduate engineering student with a strong interdisciplinary foundation in AI/ML, sensor technologies, and data automation.<br>⚡For fun: Guess my favorite animal (Hint: Meow! 😼)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abh1_nahi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/abhi-m-g-62925a218/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhimg20@gmail.com) 
