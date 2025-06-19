@@ -2,11 +2,19 @@
   <img src="https://raw.githubusercontent.com/abhi-mike-g/abhi-mike-g/refs/heads/main/Img/giphy.gif"width="500">
 </p>
 
-<br><br>
+# 💫 About Me
 
-# 💫 About Me:
-### 👋 Hey, I'm Abhi M G <br><br><br>Although I prefer to be called AMG (I'm a car *vroom vroom*🏎)<br><br>I'm an undergraduate engineering student with a strong interdisciplinary foundation in AI/ML, sensor technologies, and data automation. I enjoy designing and developing AI-driven solutions that bridge software engineering and domain-specific applications.<br>I'm passionate about harnessing innovative AI to make a positive impact, and I'm excited to contribute to projects by developing tools that empower researchers with smart, automated data analysis capabilities.
-<br><br>🔭 Currently Working on [AudioForge](https://github.com/TechnosysOrg/AudioForge)<br>⚡Guess my favorite animal (Hint: Meow! 😼)
+### 👋 Hey, I'm Abhi M G  
+Although I prefer to be called **AMG** (I'm a car *vroom vroom* 🏎)
+
+I'm an undergraduate engineering student with a strong interdisciplinary foundation in **AI/ML**, **sensor technologies**, and **data automation**. I enjoy designing and developing AI-driven solutions that bridge software engineering and domain-specific applications.
+
+I'm passionate about harnessing innovative AI to make a positive impact, and I'm excited to contribute to projects by developing tools that empower researchers with smart, automated data analysis capabilities.
+
+---
+
+🔭 **Currently Working On:** [AudioForge](https://github.com/TechnosysOrg/AudioForge)  
+⚡ **Guess my favorite animal:** (Hint: Meow! 😼)
 
 
 ## 🌐 Socials:
