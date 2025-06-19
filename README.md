@@ -5,7 +5,8 @@
 <br><br>
 
 # 💫 About Me:
-### 👋 Hey, I'm Abhi M G <br><br><br>Although I prefer to be called AMG (I'm a car *vroom vroom*🏎)<br><br>I'm an undergraduate engineering student with a strong interdisciplinary foundation in AI/ML, sensor technologies, and data automation.<br><br>🔭 Currently Working on [AudioForge](https://github.com/TechnosysOrg/AudioForge)<br>⚡Guess my favorite animal (Hint: Meow! 😼)
+### 👋 Hey, I'm Abhi M G <br><br><br>Although I prefer to be called AMG (I'm a car *vroom vroom*🏎)<br><br>## About Me<br>I'm an undergraduate engineering student with a strong interdisciplinary foundation in AI/ML, sensor technologies, and data automation. I enjoy designing and developing AI-driven solutions that bridge software engineering and domain-specific applications.<br>I'm passionate about harnessing innovative AI to make a positive impact, and I'm excited to contribute to projects by developing tools that empower researchers with smart, automated data analysis capabilities.
+<br><br>🔭 Currently Working on [AudioForge](https://github.com/TechnosysOrg/AudioForge)<br>⚡Guess my favorite animal (Hint: Meow! 😼)
 
 
 ## 🌐 Socials:
