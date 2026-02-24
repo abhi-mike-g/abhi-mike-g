@@ -15,6 +15,7 @@ I work on multidisciplinary research projects focused on integrating AI in the d
 I also build projects to solve real world issues because software tools should make life easier, not cause frustration 
 
 I like variety in my work and harnessing technologies to build tools that have a positive impact. 
+
 _Jack of all trades master of ~~none~~ some_
 
 ---
