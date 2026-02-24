@@ -16,9 +16,6 @@ I believe in being a ***Jack of all trades master of ~~none~~ some***
 
 ---
 
-🔭 **Currently Working On:** [SNIDaPS](https://github.com/abhi-mike-g/SNIDaPS) 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/abhi-m-g-62925a218/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhimg20@gmail.com) 
 
