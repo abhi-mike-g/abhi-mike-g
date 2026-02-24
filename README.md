@@ -5,11 +5,17 @@
 # 💫 About Me
 
 ### 👋 Hey, I'm Abhi M G  
-Although I prefer to be called **AMG** (I'm a car *vroom vroom* 🏎)
 
-**I'm an undergraduate engineering student currently studying at MIT (not Massachusetts 🥲). I love bringing about a multidisciplinary approach to research and am a founding member and current Head of Management of Innotech Manipal, an interdisciplinary student centred research initiative. I have worked on projects spanning across various domains such as BioInformatics, Medical Imaging, AI in Healthcare, Cybersecurity and Embedded Systems (A lot of the projects involve using AI to solve a domain specific problem and requires an interdisciplinary approach towards implementation). I enjoy designing and developing AI-driven solutions that bridge software engineering and domain-specific applications as you can probably tell.**
+Although I prefer to got by my initials: **AMG** (I'm a car, _vroom vroom_ 🏎)
 
-**I'm passionate about harnessing innovative AI to make a positive impact, and I'm excited to contribute to projects by developing tools that empower researchers with smart, automated data analysis capabilities.**
+Studying CS @ MIT (Not Massachussetts 🥲)
+
+I work on multidisciplinary research projects focused on integrating AI in the domains of healthcare, medicine, bioinformatics, cybersecurity and networking
+
+I also build projects to solve real world issues because software tools should make life easier, not cause frustration 
+
+I like variety in my work and harnessing technologies to build tools that have a positive impact. 
+_Jack of all trades master of ~~none~~ some_
 
 ---
 
